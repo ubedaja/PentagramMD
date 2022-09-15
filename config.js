@@ -51,26 +51,26 @@ global.sdc = " "
 global.snh = 'https://PentaPage.my.id'
 
 /*============== PAYMENT ==============*/
-global.pdana = '085954184111'
+global.pdana = ''
 global.povo = '_'
 global.pgopay = '_'
-global.ppulsa = '085954184111'
-global.ppulsa2 = '085954184111'
+global.ppulsa = ''
+global.ppulsa2 = ''
 global.psaweria = '_'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '17754764633'
-global.nomorown = '6285954184111'
+global.nomorbot = '6285857651982'
+global.nomorown = '6285857651982'
 global.namebot = '𝐏𝐄𝐍𝐓𝐀𝐆𝐑𝐀𝐌'
 global.nameown = 'SIJEMBOT'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['17754764633'],
-  ['6285954184111'],
-  ['18126338970'],
-  ['6285954184111', 'SIJEMBOT', true]
+  ['6285857651982'],
+  ['6285857651982'],
+  ['6285857651982'],
+  ['6285857651982', 'SIJEMBOT', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
