@@ -61,8 +61,8 @@ global.psaweria = '_'
 /*============== NOMOR ==============*/
 global.nomorbot = '6285857651982'
 global.nomorown = '6285857651982'
-global.namebot = '𝐏𝐄𝐍𝐓𝐀𝐆𝐑𝐀𝐌'
-global.nameown = 'SIJEMBOT'
+global.namebot = 'GRAMM'
+global.nameown = 'MbekTzy'
 
 
 /*============== STAFF ==============*/
@@ -70,7 +70,7 @@ global.owner = [
   ['6285857651982'],
   ['6285857651982'],
   ['6285857651982'],
-  ['6285857651982', 'SIJEMBOT', true]
+  ['6285857651982', 'MbekTzy', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
